@@ -5,6 +5,7 @@ md ToPackage\OpenLandGrass
 md ToPackage\OpenLandGrass\Config
 
 xcopy OpenLandGrass\Config ToPackage\OpenLandGrass\Config /E/H
+del ToPackage\OpenLandGrass\Config\DefaultInput.ini
 xcopy OpenLandGrass\OpenLandGrass.uproject ToPackage\OpenLandGrass
 
 md ToPackage\OpenLandGrass\Content
