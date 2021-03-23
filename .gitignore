@@ -76,13 +76,18 @@ OpenLandGrass/DerivedDataCache/*
 OpenLandGrass/Content/KiteDemo
 OpenLandGrass/Content/StarterContent
 
-# Include OpenLand/Core/RVT
-!OpenLandGrass/Content/OpenLand/Core/RVT/*.uasset
-
 # ThirdParty Content
 OpenLandGrass/Content/MSPresets
 OpenLandGrass/Content/MegaScans
-OpenLandGrass/Content/OpenLand
+
+OpenLandGrass/Content/OpenLand/Core/Grass
+OpenLandGrass/Content/OpenLand/Core/LayerInfos
+OpenLandGrass/Content/OpenLand/Core/Materials
+OpenLandGrass/Content/OpenLand/Core/Textures
+OpenLandGrass/Content/OpenLand/Core/Tools
+OpenLandGrass/Content/OpenLand/Grass
+OpenLandGrass/Content/OpenLand/Themes
+OpenLandGrass/Content/OpenLand/Maps/*OpenLandMap*
 
 # Misc
 *.zip
