@@ -27,8 +27,8 @@ For non-commerical projects, you can also get it from here:
 Nothing is perfect & so does this project. But we would like to fix issues, add new features & answer your questions.
 Here are some links:
 
-* [Roadmap](https://github.com/orgs/GameDev4K/projects/1)
-* [GitHub Issues](https://github.com/GameDev4K/unreal-openland-grass/issues)
+* [Roadmap](https://github.com/orgs/GDi4K/projects/1)
+* [GitHub Issues](https://github.com/GDi4K/unreal-openland-grass/issues)
 * [GameDev4K Discord Server](https://discord.gg/DK9cMn9eFV)
 
 
