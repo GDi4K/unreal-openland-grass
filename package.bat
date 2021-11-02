@@ -36,3 +36,7 @@ copy OpenLandGrass\Content\OpenLand\Widgets\OpenLand_RVT_Widget.uasset ToPackage
 
 md ToPackage\OpenLandGrass\Content\OpenLand\Maps\Utils
 xcopy OpenLandGrass\Content\OpenLand\Maps\Utils ToPackage\OpenLandGrass\Content\OpenLand\Maps\Utils /E/H
+
+md ToPackage\OpenLandGrass\Content\OpenLand\Core\Tools
+md ToPackage\OpenLandGrass\Content\OpenLand\Core\Tools\Common
+copy OpenLandGrass\Content\OpenLand\Core\Tools\Common\BP_Bounding_Box.uasset ToPackage\OpenLandGrass\Content\OpenLand\Core\Tools\Common\BP_Bounding_Box.uasset
