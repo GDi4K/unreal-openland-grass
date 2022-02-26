@@ -19,6 +19,8 @@ copy OpenLandGrass\Content\OpenLand\Core\Materials\Integrations\OpenLand_Camera_
 copy OpenLandGrass\Content\OpenLand\Core\Materials\Integrations\Use_OpenLand_RVT_Tools.uasset ToPackage\OpenLandGrass\Content\OpenLand\Core\Materials\Integrations\Use_OpenLand_RVT_Tools.uasset
 
 md ToPackage\OpenLandGrass\Content\OpenLand\Core\Materials\Functions
+copy OpenLandGrass\Content\OpenLand\Core\Materials\Functions\MF_OL_Specular_Modifications.uasset ToPackage\OpenLandGrass\Content\OpenLand\Core\Materials\Functions\MF_OL_Specular_Modifications.uasset
+
 md ToPackage\OpenLandGrass\Content\OpenLand\Core\Materials\Functions\Utils
 xcopy OpenLandGrass\Content\OpenLand\Core\Materials\Functions\Utils ToPackage\OpenLandGrass\Content\OpenLand\Core\Materials\Functions\Utils /E/H
 
